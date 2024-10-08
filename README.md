@@ -1,8 +1,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/chodonghee-hub"
-  width="900"
-  height="300"
+  width="1000"
+  height="350"
 />
 </a>
 
