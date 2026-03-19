@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DongHee Cho</h1>
-<h3 align="center">i'm junior frontend developer</h3>
+<h3 align="center">i'm junior Web & Python developer</h3>
 
 - 🌱 I’m currently learning **React**
 
