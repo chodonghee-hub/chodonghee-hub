@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **timandsunny@naver.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
